@@ -39,7 +39,6 @@ class _Game extends State<Game> {
     Warrior warrior = Warrior(Vector2(5 * 16, 15 * 16));
 
     return BonfireTiledWidget(
-      showCollisionArea: true,
       joystick: Joystick(
         keyboardConfig: KeyboardConfig(
             keyboardDirectionalType: KeyboardDirectionalType.wasdAndArrows),
