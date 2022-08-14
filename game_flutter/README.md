@@ -1,16 +1,38 @@
-# game_flutter
+# Processo Seletivo Escribo 02
 
-A new Flutter project.
+Objetivo: O objetivo deste teste é implementar um jogo de labirinto no flutter. Você deverá replicar a jogabilidade desta versão: https://www.google.com/logos/2010/pacman10-i.html
 
-## Getting Started
+O seu jogo deve ser desenvolvido em Flutter utilizando o pacote Bonfire (https://pub.dev/packages/bonfire). O mapa deve ser criado utilizando o Tiled (https://www.mapeditor.org/).
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://docs.flutter.dev/get-started/install)
+
+## Como rodar
+
+- Precisa de Flutter instalado na máquina:
+
+- [Flutter](https://docs.flutter.dev/get-started/install)
+
+```bash
+# Primeiramente clone o projeto com
+$ git clone https://github.com/joaovs2004/Teste02-Escribo.git
+$ cd Teste02-Escribo/
+$ flutter pub get
+```
+
+## Como testar
+
+
+```bash
+# Rodando a versão windows
+$ flutter run -d windows
+
+Caso tenha um emulador android é possível roda o projeto nele.
+```
+
+
+## Erros Conhecidos
+
+- As vezes os Mobis travam na sua propria colisão.
