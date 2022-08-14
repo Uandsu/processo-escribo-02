@@ -7,3 +7,6 @@ O seu jogo deve ser desenvolvido em Flutter utilizando o pacote Bonfire (https:/
 ## Acesso
 
 **Para acessar o projeto, [clique aqui](https://github.com/Uandsu/processo-escribo-02/tree/master/game_flutter).**
+
+## Screenshot
+![Imagem do projeto](https://i.postimg.cc/4dDYHjJT/escribolabirinto.png "Imagem do projeto")
